@@ -1,5 +1,6 @@
 # Was gonna try to do dynamic programming, but i think you can't beat
 #O(n^2) runtime so why waste the space lol
+#Update turns out I forgot that hashmaps exist
 
 
 class Solution:
